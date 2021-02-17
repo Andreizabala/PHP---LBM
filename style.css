@@ -1,0 +1,40 @@
+
+.container-fluid{
+    background-color: firebrick;
+}
+
+.library{
+    position: absolute;
+    top: 50%;
+    left: 5%;
+    transform: translate(-5%, -50%);
+}
+.container{
+    height: 78vh;
+    display: flex;
+    justify-content: center;
+    height: fit-content;
+}
+
+.search{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 20px;
+
+
+}
+.category{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 20px;
+}
+
+.card-deck{
+    display: flex;
+    justify-content: center;
+}
+
+.card img {
+   padding: 10px;
+}
+
